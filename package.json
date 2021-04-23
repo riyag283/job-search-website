@@ -1,0 +1,29 @@
+{
+  "name": "job-search-website",
+  "version": "1.0.0",
+  "description": "Job Search Website as a part of PS Pre-training Learning Phase-2 ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git/job-search-website.git"
+  },
+  "keywords": [
+    "Login",
+    "Admin",
+    "Users"
+  ],
+  "author": "Riya Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyag283/job-search-website/issues"
+  },
+  "homepage": "https://github.com/riyag283/job-search-website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6"
+  }
+}
